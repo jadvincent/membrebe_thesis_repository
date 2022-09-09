@@ -1,0 +1,4 @@
+#!/bin/bash -l
+
+cd $PBS_O_WORKDIR
+java -jar -Djava.library.path=/user/leuven/322/vsc32255/lib /data/leuven/322/vsc32255/CF3x4/beast.jar -beagle_order 1 -overwrite -seed 202109307 /data/leuven/322/vsc32255/mmm/beast/202109307/5v2/beast_res4/camelid_beast_res4.xml

@@ -1,0 +1,851 @@
+<alignment id="alignment" dataType="codon">
+	<sequence>
+		<taxon idref="LGL132362"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237315"/>
+		GACCGCTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL131930"/>
+		GACCATTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="AF000603"/>
+		GACCGTTGCAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP24VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP22VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP21VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP19VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP16VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP10VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP18VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP17VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP09VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP14VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP02VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP07VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP12VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP13VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP15VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP04VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP03VCOD"/>
+		GACCATTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP06VCOD"/>
+		GACCGTTATAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP05VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP11VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP08VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP29VCOD"/>
+		GACCGTTACAGCCCC
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP30VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP52VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP31VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP34VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP32VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP33VCOD"/>
+		GACCGTTACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP45VCOD"/>
+		GACAGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP47VCOD"/>
+		GACAGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP46VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP48VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP51VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP43VCOD"/>
+		GGCCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP44VCOD"/>
+		GGCCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP49VCOD"/>
+		CGCCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP40VCOD"/>
+		GACCGTTACAGGCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP41VCOD"/>
+		GACCGTTACAGGCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP36VCOD"/>
+		GACCGTTACAGGCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP38VCOD"/>
+		GACCGTTACAGGCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP37VCOD"/>
+		GACCGTTACAGGCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP42VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP50VCOD"/>
+		GACCGTTACAGTCCA
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP28VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHP25VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP42VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP08VCOD"/>
+		GACCGTTACTGTCAG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP09VCOD"/>
+		GACCGTTACTCTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP10VCOD"/>
+		AACCGTTACTGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP11VCOD"/>
+		GACCGTTACTGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP12VCOD"/>
+		GACCGTTACTGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP41VCOD"/>
+		AATCGGTACAATCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP36VCOD"/>
+		AATCGGTACAATCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP37VCOD"/>
+		AATCGTTACAATCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP35VCOD"/>
+		AATCGTTACAATCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP34VCOD"/>
+		TGTCGTTACAATCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP32VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP33VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP06VCOD"/>
+		CACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP07VCOD"/>
+		CACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP15VCOD"/>
+		GACCGTTACAGGCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP31VCOD"/>
+		GACCGTTACAGGCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP24VCOD"/>
+		GACCGTTATAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP25VCOD"/>
+		GACCGTTATAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP23VCOD"/>
+		GACCGTTATAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP19VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP22VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP27VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP21VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP26VCOD"/>
+		GACCATTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP20VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP29VCOD"/>
+		AACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP17VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP28VCOD"/>
+		GACCGTTACAGTCAG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP30VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="AF000604"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP03VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP04VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="CVHHP05VCOD"/>
+		GACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238057"/>
+		GACCGTTACGGTCTG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238051"/>
+		GACTGTTACGATCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237297"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237381"/>
+		CACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237296"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237365"/>
+		GACTGCGACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238052"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237302"/>
+		GCCCCTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238049"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237360"/>
+		GACCGCTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238046"/>
+		GACCATTGCGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237370"/>
+		GACTGTCACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237353"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237325"/>
+		GACCGTAGCGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237332"/>
+		GACCGTAACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL131929"/>
+		GACCGTTACCGGCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237300"/>
+		GATCGCTACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237355"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237361"/>
+		GACCGGTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237341"/>
+		GATCATTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238050"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237319"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237377"/>
+		GACCGTTACGGTCTG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237306"/>
+		AACCGTTACGGTCAG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237320"/>
+		AACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237386"/>
+		AACCGTTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238048"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237383"/>
+		GACCGTTACGGTCGG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237391"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237356"/>
+		GACCGTGACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237367"/>
+		GACCGTTACGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238055"/>
+		GACTGTCACCGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237380"/>
+		AACCGTTGCGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237350"/>
+		GACCGTTGTGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237366"/>
+		GACCGTTACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237304"/>
+		GACCAGTGTCATCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237295"/>
+		GACCGTTACCGTCCA
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237375"/>
+		GACCGTTACCGCCCA
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238059"/>
+		AACCGTTACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237318"/>
+		GACCGTTACTGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237322"/>
+		GACCGTTACTGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237357"/>
+		GACTGTTACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237293"/>
+		AACCGTCACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237354"/>
+		GACCGATACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237301"/>
+		GACCATTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237314"/>
+		GACCGCTATCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237310"/>
+		GACCGTTGCCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237371"/>
+		GACCGTTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237376"/>
+		GAGCGTTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237392"/>
+		GACCGTCACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237298"/>
+		GACCAGTACCGACCA
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237299"/>
+		GACCAGTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237387"/>
+		GACTGTCACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237393"/>
+		GACTGTCACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237388"/>
+		GACGGTTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL131931"/>
+		GACTGTTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237385"/>
+		GACTGTTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237382"/>
+		GATCGCTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238056"/>
+		AACCGTTGCCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238054"/>
+		GACCGTTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237384"/>
+		GGCCGTTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238045"/>
+		GACCGTAACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237326"/>
+		GACCTTTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237359"/>
+		GACCGTTACCGACCA
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237389"/>
+		GACCGTTACCGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237286"/>
+		AATCGTTACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237308"/>
+		GACCGTCACTGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237333"/>
+		GGCCGTTATCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237303"/>
+		GACCGTTACTGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238053"/>
+		GAATGCTACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238058"/>
+		GGCCGTTATGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237329"/>
+		GACCGTTACCGTTCA
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237328"/>
+		GACCGTTACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237378"/>
+		GACCGTTACCATCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237369"/>
+		GACCCTTACCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237373"/>
+		GATCGTTGCCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238047"/>
+		GAGCGTCGCCGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237289"/>
+		GAGCGTCACCACCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237331"/>
+		GACCGTTATTGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237390"/>
+		GACAGTTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237336"/>
+		GACAATCACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237340"/>
+		GACAATTACAGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237294"/>
+		AACAATAACGGCCTG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237358"/>
+		GTCAATTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL238060"/>
+		GACAATTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237317"/>
+		GACAACTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237279"/>
+		GACAATTGCGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237277"/>
+		GACAATTGCGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237352"/>
+		GACAATTGCGGTCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237362"/>
+		GACCATTATGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237363"/>
+		GACAATTATGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237374"/>
+		GATAATGACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237307"/>
+		GACTATTGCGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237335"/>
+		GACACTTGCAGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237342"/>
+		CACATTTACGGACCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237351"/>
+		GACAGTTACGGCCCT
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237312"/>
+		GACAATTGCGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237316"/>
+		GACATTTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237323"/>
+		GACAATTACGACCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237283"/>
+		GACAATTGCAACCCA
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237337"/>
+		AACAATTACAACCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237292"/>
+		AACAATTACGACCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237285"/>
+		GACCGTTACGGCCCT
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237347"/>
+		GACAATGACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237284"/>
+		GACAATTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237379"/>
+		GACAATCGCGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237330"/>
+		GACAATTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237313"/>
+		GACAATTACAGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237281"/>
+		GACAATTACGTCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237344"/>
+		GACAATTACAGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237282"/>
+		GACAATTACAGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237291"/>
+		GACAATAGCTGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237305"/>
+		GACAATTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237276"/>
+		GGCAATTATGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237280"/>
+		GACAGTTGCAGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237309"/>
+		CGCAATTTCGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237345"/>
+		GACAGTTGCGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237311"/>
+		GACGGTTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237321"/>
+		GAAAGTTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237339"/>
+		GGCAATTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237278"/>
+		CACCATTATGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237327"/>
+		CACCATTCCGGCCCA
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237324"/>
+		GACCGTTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237368"/>
+		GACTATTACGGCATG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237346"/>
+		GGCCATTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237287"/>
+		GACCATTACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237288"/>
+		GACCCTTACAGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237338"/>
+		GACCATCACGGCCCG
+	</sequence>
+	<sequence>
+		<taxon idref="LGL237349"/>
+		GACCGTTACGGCCCG
+	</sequence>
+</alignment>
+
