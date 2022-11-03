@@ -1,0 +1,54 @@
+Copy from mac to kev3:
+
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I/expoEpoch/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/1aexpo/
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I/randomLocal/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/1arandom/
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I/relaxedClock/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/1arelaxed/
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I/strictClock/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/1astrict/
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I/uniformEpoch/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/1auniform/
+
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/expoEpoch/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/3aexpo/
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/randomLocal/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/3arandom/
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/relaxedClock/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/3arelaxed/
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/strictClock/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/3astrict/
+scp /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/uniformEpoch/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/3auniform/
+
+scp /Users/u0118390/Desktop/Foamy_Viruses/dispersed-II/randomLocal/TDRP_FV.xml kev3:/home/luna.kuleuven.be/u0118390/2drandom/
+
+
+Copy from kev3 to mac:
+
+scp kev3:/home/luna.kuleuven.be/u0118390/1aexpo/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I_p2/expoEpoch/
+scp kev3:/home/luna.kuleuven.be/u0118390/1arandom/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I_p2/randomLocal/
+scp kev3:/home/luna.kuleuven.be/u0118390/1arelaxed/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I_p2/relaxedClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/1astrict/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I_p2/strictClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/1auniform/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-I_p2/uniformEpoch/
+
+scp kev3:/home/luna.kuleuven.be/u0118390/2aexpo/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-II/expoEpoch/
+scp kev3:/home/luna.kuleuven.be/u0118390/2arandom/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-II/randomLocal/
+scp kev3:/home/luna.kuleuven.be/u0118390/2arelaxed/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-II/relaxedClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/2astrict/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-II/strictClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/2auniform/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-II/uniformEpoch/
+
+scp kev3:/home/luna.kuleuven.be/u0118390/3expo/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/expoEpoch/
+scp kev3:/home/luna.kuleuven.be/u0118390/3random/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/randomLocal/
+scp kev3:/home/luna.kuleuven.be/u0118390/3relaxed/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/relaxedClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/3strict/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/strictClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/3uniform/*  /Users/u0118390/Desktop/Foamy_Viruses/aggregated-III/uniformEpoch/
+
+scp kev3:/home/luna.kuleuven.be/u0118390/1dexpo/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-I/expoEpoch/
+scp kev3:/home/luna.kuleuven.be/u0118390/1drandom/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-I/randomLocal/
+scp kev3:/home/luna.kuleuven.be/u0118390/1drelaxed/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-I/relaxedClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/1dstrict/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-I/strictClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/1duniform/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-I/uniformEpoch/
+
+scp kev3:/home/luna.kuleuven.be/u0118390/2dexpo/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-II/expoEpoch/
+scp kev3:/home/luna.kuleuven.be/u0118390/2drandom/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-II/randomLocal/
+scp kev3:/home/luna.kuleuven.be/u0118390/2drelaxed/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-II/relaxedClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/2dstrict/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-II/strictClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/2duniform/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-II/uniformEpoch/
+
+scp kev3:/home/luna.kuleuven.be/u0118390/3expo/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-III/expoEpoch/
+scp kev3:/home/luna.kuleuven.be/u0118390/3random/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-III/randomLocal/
+scp kev3:/home/luna.kuleuven.be/u0118390/3relaxed/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-III/relaxedClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/3strict/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-III/strictClock/
+scp kev3:/home/luna.kuleuven.be/u0118390/3uniform/*  /Users/u0118390/Desktop/Foamy_Viruses/dispersed-III/uniformEpoch/

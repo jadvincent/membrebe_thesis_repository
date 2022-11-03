@@ -1,0 +1,29 @@
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) Smoothed_Pr(accept)
+scale(clock.rates)                                0.316   687222     784561   1.14     0.2338      0.22        
+epochIntercept                                    0.045   137514     747717   5.44     0.2341      0.27        
+epochCoefficient                                  0.014   688972     3750763  5.44     0.2337      0.25        
+scale(clock.rates.scale)                          0.911   137948     750586   5.44     0.2356      0.26        
+E1.gtr.rates                                      0.078   68696      101420   1.48     0.2351      0.29        
+E1.frequencies                                    0.011   68329      101397   1.48     0.2338      0.18        
+scale(E1.alpha)                                   0.898   68821      100634   1.46     0.2346      0.22        
+E2.gtr.rates                                      0.103   68487      91155    1.33     0.2347      0.23        
+E2.frequencies                                    0.016   68556      90907    1.33     0.2345      0.29        
+scale(E2.alpha)                                   0.841   68356      89753    1.31     0.2356      0.24        
+L2.gtr.rates                                      0.115   68779      94014    1.37     0.2357      0.26        
+L2.frequencies                                    0.016   68716      93577    1.36     0.2332      0.28        
+scale(L2.alpha)                                   0.856   68893      92973    1.35     0.2339      0.26        
+L1.gtr.rates                                      0.088   68058      96417    1.42     0.2332      0.17        
+L1.frequencies                                    0.013   69216      98096    1.42     0.2343      0.16        
+scale(L1.alpha)                                   0.899   68641      95891    1.4      0.235       0.16        
+scale(nodeHeights(treeModel))                     0.954   206709     1130002  5.47     0.2338      0.33        
+allNus                                            0.015   206332     643863   3.12     0.2336      0.25        
+subtreeSlide(treeModel)                           6.829   2060009    2196917  1.07     0.2342      0.28        
+Narrow Exchange(treeModel)                                2063380    1263138  0.61     0.0042      0.0         
+Wide Exchange(treeModel)                                  206349     20555    0.1      0.0         0.0         
+wilsonBalding(treeModel)                                  206124     41871    0.2      0.0         0.0         
+scale(treeModel.rootHeight)                       0.172   205534     168933   0.82     0.2334      0.26        
+uniform(nodeHeights(treeModel))                           2064928    2399491  1.16     0.1348      0.13        
+scale(yule.birthRate)                             0.572   205431     40622    0.2      0.2336      0.21        
+
